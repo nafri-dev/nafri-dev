@@ -31,32 +31,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" height="160"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter" /></a>
-  <a href="https://your-portfolio.com"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamedirfandev"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:mohamedirfandev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://mohamed-irfan-dev.framer.ai/"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
